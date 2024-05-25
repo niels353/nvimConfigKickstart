@@ -26,6 +26,8 @@ require("lazy").setup({
 	"nvim-telescope/telescope-ui-select.nvim",
 	"nvimtools/none-ls.nvim",
 	"mfussenegger/nvim-dap",
+   "lewis6991/gitsigns.nvim",
+   "tpope/vim-fugitive",
 	-- Completions
 	"hrsh7th/nvim-cmp",
 	"L3MON4D3/LuaSnip",
