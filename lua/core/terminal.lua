@@ -13,5 +13,5 @@ vim.api.nvim_create_autocmd("TermOpen", {
 -- Easily hit escape in terminal mode.
 vim.keymap.set("t", "<esc><esc>", "<c-\\><c-n>")
 
-vim.opt.shell = 'pwsh'
+--vim.opt.shell = 'pwsh'
 
