@@ -30,6 +30,6 @@ opt.signcolumn = 'yes'
 opt.splitbelow = true
 opt.splitright = true
 
-opt.list = true
-opt.listchars = { trail = '·', nbsp = '␣' }
+-- opt.list = true
+-- opt.listchars = { trail = '·', nbsp = '␣' }
 
