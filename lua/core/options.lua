@@ -30,6 +30,5 @@ opt.signcolumn = 'yes'
 opt.splitbelow = true
 opt.splitright = true
 
--- opt.list = true
--- opt.listchars = { trail = '·', nbsp = '␣' }
+opt.scrolloff = 10
 
