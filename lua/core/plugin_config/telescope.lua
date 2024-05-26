@@ -3,6 +3,10 @@ require("telescope").setup({
     ["ui-select"] = {
       require("telescope.themes").get_dropdown {}
       }
+   },
+   defaults = {
+      selection_caret = "󱞩 ",
+      prompt_prefix = ' 🔍 ',
    }
 })
 
