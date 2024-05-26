@@ -28,6 +28,7 @@ require("lazy").setup({
 	"mfussenegger/nvim-dap",
    "lewis6991/gitsigns.nvim",
    "tpope/vim-fugitive",
+   "goolord/alpha-nvim",
 	-- Completions
 	"hrsh7th/nvim-cmp",
 	"L3MON4D3/LuaSnip",
