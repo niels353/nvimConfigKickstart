@@ -7,8 +7,8 @@ opt.clipboard = 'unnamedplus'
 
 opt.cursorline = true
 
-opt.tabstop = 3
-opt.shiftwidth = 3
+opt.tabstop = 2
+opt.shiftwidth = 2
 opt.shiftround = true
 opt.expandtab = true
 
